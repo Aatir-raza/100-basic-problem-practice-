@@ -1,3 +1,4 @@
+#WAP TO READ SECONDS AND CONVERT THEM INTO HOURS ,MINUTES,AND SECONDS
 seconds=int(input('enter the second'))
 hours=seconds//3600
 remaining=seconds%3600

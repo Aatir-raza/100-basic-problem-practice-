@@ -1,1 +1,2 @@
+# WAP TO PRINT HELLO WORLD ON THE SCREEN
 print('hello world')
