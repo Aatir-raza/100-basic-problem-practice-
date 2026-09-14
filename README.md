@@ -4,9 +4,9 @@ This repository contains my journey of solving **100 Basic Python Programs** to 
 
 ## 📌 Progress
 
-- ✅ Completed: **42 / 100 programs**
-- 🔄 Remaining: **58 programs**
-- 📈 Progress: **42%**
+- ✅ Completed: **46 / 100 programs**
+- 🔄 Remaining: **54 programs**
+- 📈 Progress: **46%**
 
 ## 🎯 Goal
 
@@ -52,7 +52,7 @@ The main goal of this repository is to build a strong foundation in Python by pr
 ├── 02_*.py
 ├── 03_*.py
 ├── ...
-├── 42_*.py
+├── 46_*.py
 │
 └── README.md
 ```
@@ -74,8 +74,8 @@ For each problem, I try to:
 | 1–10 | ✅ Completed |
 | 11–20 | ✅ Completed |
 | 21–30 | ✅ Completed |
-| 31–42 | ✅ Completed |
-| 43–100 | 🔄 Remaining |
+| 31–46 | ✅ Completed |
+| 47–100 | 🔄 Remaining |
 
 ## 🛠️ Technology
 
@@ -97,6 +97,6 @@ I will continue solving the remaining programs and gradually move toward more ad
 - Object-Oriented Programming
 - Problem solving & DSA
 
-> **42 programs completed. 58 more to go. 🚀**
+> **46 programs completed. 54 more to go. 🚀**
 
 This repository is a record of my learning journey and continuous improvement in Python.
