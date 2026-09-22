@@ -23,6 +23,6 @@ for char in s:
         result_upper += char
         result_lower += char
 
-print("Uppercase:", result_upper)
-print("Lowercase:", result_lower)
+print( result_upper)
+print(result_lower)
   
