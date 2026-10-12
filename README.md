@@ -52,7 +52,7 @@ The main goal of this repository is to build a strong foundation in Python by pr
 ├── 02_*.py
 ├── 03_*.py
 ├── ...
-├── 46_*.py
+├── 91_*.py
 │
 └── README.md
 ```
@@ -71,11 +71,16 @@ For each problem, I try to:
 
 | Programs | Status |
 |---|---|
-| 1–10 | ✅ Completed |
+| 1–10  | ✅ Completed |
 | 11–20 | ✅ Completed |
 | 21–30 | ✅ Completed |
-| 31–46 | ✅ Completed |
-| 47–100 | 🔄 Remaining |
+| 31–40 | ✅ Completed |
+| 41-50 | ✅ Completed | 
+| 51-60 | ✅ Completed |
+| 61-70 | ✅ Completed |
+| 71-80 | ✅ Completed |
+| 81-91 | ✅ Completed |
+|92–100 | 🔄 Remaining |
 
 ## 🛠️ Technology
 
