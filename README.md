@@ -4,9 +4,9 @@ This repository contains my journey of solving **100 Basic Python Programs** to 
 
 ## 📌 Progress
 
-- ✅ Completed: **46 / 100 programs**
-- 🔄 Remaining: **54 programs**
-- 📈 Progress: **46%**
+- ✅ Completed: **91/ 100 programs**
+- 🔄 Remaining: **9 programs**
+- 📈 Progress: **9%**
 
 ## 🎯 Goal
 
@@ -97,6 +97,6 @@ I will continue solving the remaining programs and gradually move toward more ad
 - Object-Oriented Programming
 - Problem solving & DSA
 
-> **46 programs completed. 54 more to go. 🚀**
+> **91 programs completed. 9more to go. 🚀**
 
 This repository is a record of my learning journey and continuous improvement in Python.
